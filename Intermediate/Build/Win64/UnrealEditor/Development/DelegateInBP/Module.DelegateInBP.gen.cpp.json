@@ -1,0 +1,20 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\05-ue5-project\\cpp\\plugins\\delegateinbp\\intermediate\\build\\win64\\unrealeditor\\development\\delegateinbp\\module.delegateinbp.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\05-ue5-project\\cpp\\intermediate\\build\\win64\\cppeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\05-ue5-project\\cpp\\plugins\\delegateinbp\\intermediate\\build\\win64\\unrealeditor\\development\\delegateinbp\\definitions.delegateinbp.h",
+            "e:\\05-ue5-project\\cpp\\plugins\\delegateinbp\\intermediate\\build\\win64\\unrealeditor\\inc\\delegateinbp\\delegateinbp.init.gen.cpp",
+            "e:\\05-ue5-project\\cpp\\plugins\\delegateinbp\\intermediate\\build\\win64\\unrealeditor\\inc\\delegateinbp\\delegateinbpbplibrary.gen.cpp",
+            "e:\\05-ue5-project\\cpp\\plugins\\delegateinbp\\source\\delegateinbp\\public\\delegateinbpbplibrary.h",
+            "e:\\05-ue5-project\\cpp\\plugins\\delegateinbp\\source\\delegateinbp\\public\\delegatevar.h",
+            "e:\\05-ue5-project\\cpp\\plugins\\delegateinbp\\intermediate\\build\\win64\\unrealeditor\\inc\\delegateinbp\\delegatevar.generated.h",
+            "e:\\05-ue5-project\\cpp\\plugins\\delegateinbp\\intermediate\\build\\win64\\unrealeditor\\inc\\delegateinbp\\delegateinbpbplibrary.generated.h",
+            "e:\\05-ue5-project\\cpp\\plugins\\delegateinbp\\intermediate\\build\\win64\\unrealeditor\\inc\\delegateinbp\\delegatevar.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

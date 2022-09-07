@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DelegateInBP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\05-UE5-Project\CPP\Intermediate\Build\Win64\CPPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\05-UE5-Project\CPP\Plugins\DelegateInBP\Intermediate\Build\Win64\UnrealEditor\Development\DelegateInBP\Module.DelegateInBP.cpp.obj"
+"E:\05-UE5-Project\CPP\Plugins\DelegateInBP\Intermediate\Build\Win64\UnrealEditor\Development\DelegateInBP\Module.DelegateInBP.gen.cpp.obj"
+"E:\05-UE5-Project\CPP\Plugins\DelegateInBP\Intermediate\Build\Win64\UnrealEditor\Development\DelegateInBP\Default.rc2.res"
+/OUT:"E:\05-UE5-Project\CPP\Plugins\DelegateInBP\Intermediate\Build\Win64\UnrealEditor\Development\DelegateInBP\UnrealEditor-DelegateInBP.lib"

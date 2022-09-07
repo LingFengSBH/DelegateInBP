@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DelegateInBP.cpp.obj": [
+			"DelegateInBP.cpp.obj",
+			"DelegateInBPBPLibrary.cpp.obj",
+			"DelegateVar.cpp.obj"
+		],
+		"Module.DelegateInBP.gen.cpp.obj": [
+			"DelegateInBP.init.gen.cpp.obj",
+			"DelegateInBPBPLibrary.gen.cpp.obj",
+			"DelegateVar.gen.cpp.obj"
+		]
+	}
+}
